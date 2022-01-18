@@ -1,0 +1,2 @@
+Requierements :
+You need to create a vue project with npm or yarn because you will need node modules in order to run this project. You can check my Users.vue and app.vue files and can execute this project.
